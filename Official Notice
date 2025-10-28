@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="robots" content="noindex, nofollow">
+  <meta name="description" content="Official notice: Ice From North is temporarily paused during internal restructuring.">
+  <title>Ice From North — Official Notice</title>
+  <style>
+    :root {
+      --bg: #0a0a0a;
+      --fg: #e9f1f9;
+      --accent: #00b3ff;
+      --muted: #9fbfd0;
+    }
+    * {box-sizing:border-box}
+    body {
+      margin:0;
+      background:var(--bg);
+      color:var(--fg);
+      font-family:"Inter",system-ui,Arial,sans-serif;
+      display:flex;
+      align-items:center;
+      justify-content:center;
+      min-height:100vh;
+      padding:32px;
+    }
+    .wrap {
+      max-width:760px;
+      background:rgba(255,255,255,0.04);
+      border:1px solid rgba(255,255,255,0.07);
+      border-radius:20px;
+      padding:56px 48px;
+      text-align:center;
+      box-shadow:0 16px 40px rgba(0,0,0,0.45);
+      backdrop-filter:blur(10px);
+    }
+    h1 {
+      font-size:2rem;
+      letter-spacing:0.5px;
+      margin:0 0 12px;
+    }
+    h2 {
+      font-size:1rem;
+      font-weight:500;
+      color:var(--muted);
+      margin:0 0 28px;
+    }
+    p {
+      line-height:1.6;
+      font-size:1rem;
+      margin:10px 0 20px;
+    }
+    a {
+      color:var(--accent);
+      text-decoration:none;
+      font-weight:600;
+    }
+    a:hover {
+      text-decoration:underline;
+    }
+    footer {
+      font-size:0.8rem;
+      color:var(--muted);
+      margin-top:30px;
+    }
+  </style>
+</head>
+<body>
+  <main class="wrap" role="main">
+    <h1>Ice From North</h1>
+    <h2>Official Notice — Operations Paused for Restructuring</h2>
+    <p>Ice From North is undergoing an internal restructuring and is not accepting new orders at this time.</p>
+    <p>We appreciate the support our customers and community have shown over the years.  
+    For assistance regarding an existing order or inquiry, please contact  
+    <a href="mailto:support@icefromnorth.no">support@icefromnorth.no</a>.</p>
+    <p>All outstanding cases are being reviewed individually.  
+    We appreciate your patience while this process continues.</p>
+    <footer>© Ice From North • This site does not process payments</footer>
+  </main>
+</body>
+</html>
